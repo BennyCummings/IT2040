@@ -1,0 +1,14 @@
+/Users/benjamincummings/IT 2040/Automobile/bin/Debug/net8.0/Automobile
+/Users/benjamincummings/IT 2040/Automobile/bin/Debug/net8.0/Automobile.deps.json
+/Users/benjamincummings/IT 2040/Automobile/bin/Debug/net8.0/Automobile.runtimeconfig.json
+/Users/benjamincummings/IT 2040/Automobile/bin/Debug/net8.0/Automobile.dll
+/Users/benjamincummings/IT 2040/Automobile/bin/Debug/net8.0/Automobile.pdb
+/Users/benjamincummings/IT 2040/Automobile/obj/Debug/net8.0/Automobile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamincummings/IT 2040/Automobile/obj/Debug/net8.0/Automobile.AssemblyInfoInputs.cache
+/Users/benjamincummings/IT 2040/Automobile/obj/Debug/net8.0/Automobile.AssemblyInfo.cs
+/Users/benjamincummings/IT 2040/Automobile/obj/Debug/net8.0/Automobile.csproj.CoreCompileInputs.cache
+/Users/benjamincummings/IT 2040/Automobile/obj/Debug/net8.0/Automobile.dll
+/Users/benjamincummings/IT 2040/Automobile/obj/Debug/net8.0/refint/Automobile.dll
+/Users/benjamincummings/IT 2040/Automobile/obj/Debug/net8.0/Automobile.pdb
+/Users/benjamincummings/IT 2040/Automobile/obj/Debug/net8.0/Automobile.genruntimeconfig.cache
+/Users/benjamincummings/IT 2040/Automobile/obj/Debug/net8.0/ref/Automobile.dll
