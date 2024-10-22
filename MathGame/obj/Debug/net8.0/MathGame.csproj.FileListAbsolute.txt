@@ -1,0 +1,14 @@
+/Users/benjamincummings/IT 2040/MathGame/bin/Debug/net8.0/MathGame
+/Users/benjamincummings/IT 2040/MathGame/bin/Debug/net8.0/MathGame.deps.json
+/Users/benjamincummings/IT 2040/MathGame/bin/Debug/net8.0/MathGame.runtimeconfig.json
+/Users/benjamincummings/IT 2040/MathGame/bin/Debug/net8.0/MathGame.dll
+/Users/benjamincummings/IT 2040/MathGame/bin/Debug/net8.0/MathGame.pdb
+/Users/benjamincummings/IT 2040/MathGame/obj/Debug/net8.0/MathGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamincummings/IT 2040/MathGame/obj/Debug/net8.0/MathGame.AssemblyInfoInputs.cache
+/Users/benjamincummings/IT 2040/MathGame/obj/Debug/net8.0/MathGame.AssemblyInfo.cs
+/Users/benjamincummings/IT 2040/MathGame/obj/Debug/net8.0/MathGame.csproj.CoreCompileInputs.cache
+/Users/benjamincummings/IT 2040/MathGame/obj/Debug/net8.0/MathGame.dll
+/Users/benjamincummings/IT 2040/MathGame/obj/Debug/net8.0/refint/MathGame.dll
+/Users/benjamincummings/IT 2040/MathGame/obj/Debug/net8.0/MathGame.pdb
+/Users/benjamincummings/IT 2040/MathGame/obj/Debug/net8.0/MathGame.genruntimeconfig.cache
+/Users/benjamincummings/IT 2040/MathGame/obj/Debug/net8.0/ref/MathGame.dll
