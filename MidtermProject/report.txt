@@ -1,0 +1,667 @@
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:7321: Denis Pickard: Sophomore(History)
+-------Scores-------
+Test0: Score: 66.99
+Test1: Score: 69.91
+Test2: Score: 73.27
+Test3: Score: 81.59
+Test4: Score: 50.97
+
+Average Score: 68.55% -- Grade: D
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:8945: Jennifer Lynn: Junior(Information Technology)
+-------Scores-------
+Test0: Score: 59.06
+Test1: Score: 97.57
+Test2: Score: 98.12
+Test3: Score: 95.33
+Test4: Score: 80.74
+Test5: Score: 61.89
+Test6: Score: 64.67
+Test7: Score: 75.1
+
+Average Score: 79.06% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:2763: Enoch Blackburn: Sophomore(Information Technology)
+-------Scores-------
+Test0: Score: 57.71
+Test1: Score: 58.69
+
+Average Score: 58.20% -- Grade: F
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:5187: Christine Hewitt: Freshman(Music)
+-------Scores-------
+Test0: Score: 57.7
+Test1: Score: 48.09
+Test2: Score: 89.52
+Test3: Score: 91.44
+Test4: Score: 67.74
+Test5: Score: 89.96
+
+Average Score: 74.08% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:9024: Noemi Hudson: Senior(Mathematics)
+-------Scores-------
+Test0: Score: 51.11
+Test1: Score: 42.93
+Test2: Score: 89.05
+Test3: Score: 92.05
+Test4: Score: 54.01
+Test5: Score: 55.71
+Test6: Score: 97.45
+Test7: Score: 90.26
+
+Average Score: 71.57% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:6538: Savannah Porter: Freshman(Information Technology)
+-------Scores-------
+Test0: Score: 59.93
+Test1: Score: 70.44
+Test2: Score: 87.66
+Test3: Score: 77.72
+Test4: Score: 51.35
+Test5: Score: 54.89
+Test6: Score: 84.25
+Test7: Score: 63.11
+
+Average Score: 68.67% -- Grade: D
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:4719: Amelia Stevens: Junior(Information Technology)
+-------Scores-------
+Test0: Score: 55.01
+Test1: Score: 70.4
+Test2: Score: 91.71
+
+Average Score: 72.37% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:3602: William Morgan: Freshman(Computer Science)
+-------Scores-------
+Test0: Score: 58.53
+Test1: Score: 85.35
+Test2: Score: 89.09
+Test3: Score: 85.8
+Test4: Score: 78.57
+Test5: Score: 84.61
+Test6: Score: 92.7
+Test7: Score: 81.28
+
+Average Score: 81.99% -- Grade: B
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:1456: Julius Bishop: Senior(Journalism)
+-------Scores-------
+Test0: Score: 77.81
+Test1: Score: 85.97
+Test2: Score: 73.52
+Test3: Score: 80
+Test4: Score: 85.98
+Test5: Score: 90.46
+
+Average Score: 82.29% -- Grade: B
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:7890: Aurelia Garcia: Senior(Instrumental Music)
+-------Scores-------
+Test0: Score: 66.98
+Test1: Score: 43.65
+Test2: Score: 87.74
+Test3: Score: 93.93
+Test4: Score: 94.68
+Test5: Score: 51.69
+Test6: Score: 84.21
+Test7: Score: 75.96
+
+Average Score: 74.86% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:5234: Joseph Snow: Sophomore(Spanish)
+-------Scores-------
+Test0: Score: 93.35
+Test1: Score: 45.31
+Test2: Score: 89.25
+Test3: Score: 96.16
+Test4: Score: 99.31
+Test5: Score: 65.32
+Test6: Score: 73.8
+Test7: Score: 61.14
+
+Average Score: 77.95% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:9761: Sloane Vince: Junior(Sociology)
+-------Scores-------
+Test0: Score: 55.22
+Test1: Score: 55.68
+Test2: Score: 74.11
+Test3: Score: 99.54
+Test4: Score: 69.52
+
+Average Score: 70.81% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:8305: Marigold Reid: Sophomore(Computer Science)
+-------Scores-------
+Test0: Score: 63.92
+Test1: Score: 80.05
+Test2: Score: 93.78
+Test3: Score: 96.31
+
+Average Score: 83.52% -- Grade: B
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:6472: Anne Patel: Junior(Information Technology)
+-------Scores-------
+Test0: Score: 52.35
+Test1: Score: 44.71
+Test2: Score: 73.19
+Test3: Score: 87.02
+Test4: Score: 93.07
+
+Average Score: 70.07% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:4158: Michael Richards: Sophomore(Sociology)
+-------Scores-------
+Test0: Score: 75.38
+Test1: Score: 69.47
+
+Average Score: 72.42% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:2693: Mackenzie Gavin: Sophomore(Information Technology)
+-------Scores-------
+Test0: Score: 85.56
+Test1: Score: 71.78
+Test2: Score: 61.8
+Test3: Score: 76.17
+Test4: Score: 74.28
+Test5: Score: 55.49
+Test6: Score: 92.21
+Test7: Score: 73.76
+
+Average Score: 73.88% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:7087: Carl Fleming: Sophomore(Biology)
+-------Scores-------
+Test0: Score: 61.34
+Test1: Score: 76.69
+Test2: Score: 62.45
+Test3: Score: 94.63
+Test4: Score: 51.82
+Test5: Score: 71.41
+Test6: Score: 93.11
+Test7: Score: 52.27
+
+Average Score: 70.47% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:5924: Anthony Anderson: Senior(Mathematics)
+-------Scores-------
+Test0: Score: 88.8
+Test1: Score: 56.79
+Test2: Score: 70.28
+Test3: Score: 80.13
+Test4: Score: 86.05
+
+Average Score: 76.41% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:3861: Roger Shea: Freshman(Communication)
+-------Scores-------
+Test0: Score: 94.5
+
+Average Score: 94.50% -- Grade: A
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:1705: Sasha Mills: Senior(Communication)
+-------Scores-------
+Test0: Score: 67.12
+Test1: Score: 74.91
+Test2: Score: 81.11
+Test3: Score: 75.29
+Test4: Score: 62.54
+Test5: Score: 74.02
+Test6: Score: 80.82
+Test7: Score: 43.6
+
+Average Score: 69.93% -- Grade: D
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:9532: Benny Overson: Freshman(Communication)
+-------Scores-------
+Test0: Score: 89.26
+Test1: Score: 70.49
+Test2: Score: 81.1
+Test3: Score: 75.64
+Test4: Score: 71.48
+
+Average Score: 77.59% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:8176: Gabriel Ryan: Junior(Spanish)
+-------Scores-------
+Test0: Score: 76.63
+Test1: Score: 73.42
+Test2: Score: 90.22
+Test3: Score: 95.89
+Test4: Score: 51.97
+Test5: Score: 60.07
+Test6: Score: 76.41
+Test7: Score: 51.63
+
+Average Score: 72.03% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:6043: Natalie Lindsay: Junior(Computer Science)
+-------Scores-------
+Test0: Score: 55.76
+Test1: Score: 90.06
+Test2: Score: 78.23
+Test3: Score: 79.01
+Test4: Score: 94.49
+Test5: Score: 71.56
+Test6: Score: 65.69
+
+Average Score: 76.40% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:4987: Anthony Penn: Senior(Communication)
+-------Scores-------
+Test0: Score: 78.33
+Test1: Score: 92.89
+Test2: Score: 70.4
+Test3: Score: 89.56
+Test4: Score: 54.84
+Test5: Score: 75.82
+
+Average Score: 76.97% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:2854: Shannon Palmer: Sophomore(Music)
+-------Scores-------
+Test0: Score: 90.12
+Test1: Score: 45.92
+Test2: Score: 95.75
+Test3: Score: 69.2
+Test4: Score: 72.53
+Test5: Score: 80.61
+Test6: Score: 62.27
+Test7: Score: 47.3
+
+Average Score: 70.46% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:7791: Leilani Little: Senior(Computer Science)
+-------Scores-------
+Test0: Score: 88.35
+Test1: Score: 51.26
+Test2: Score: 75.86
+Test3: Score: 99.15
+Test4: Score: 96.07
+
+Average Score: 82.14% -- Grade: B
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:5625: Owen Rogers: Freshman(Instrumental Music)
+-------Scores-------
+Test0: Score: 50.72
+Test1: Score: 70.81
+Test2: Score: 89.08
+Test3: Score: 94.21
+Test4: Score: 91.2
+Test5: Score: 97.7
+
+Average Score: 82.29% -- Grade: B
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:3578: Rosalyn Abbey: Sophomore(Mathematics)
+-------Scores-------
+Test0: Score: 67.55
+Test1: Score: 84.68
+Test2: Score: 85.18
+Test3: Score: 75.22
+Test4: Score: 64.56
+
+Average Score: 75.44% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:1246: Ramon Plumb: Junior(Biology)
+-------Scores-------
+Test0: Score: 83.52
+Test1: Score: 84.44
+Test2: Score: 71.08
+Test3: Score: 80.81
+Test4: Score: 55.89
+Test5: Score: 92.58
+Test6: Score: 95.42
+Test7: Score: 84.61
+
+Average Score: 81.04% -- Grade: B
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:9483: Julian Matthews: Junior(Sociology)
+-------Scores-------
+Test0: Score: 61.57
+Test1: Score: 58.73
+Test2: Score: 71.43
+Test3: Score: 65.38
+Test4: Score: 60.44
+Test5: Score: 75.13
+
+Average Score: 65.45% -- Grade: D
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:8057: Anabel Lucas: Sophomore(Language Arts)
+-------Scores-------
+Test0: Score: 86
+Test1: Score: 72.1
+Test2: Score: 99.29
+Test3: Score: 78.8
+Test4: Score: 81.78
+Test5: Score: 65.7
+Test6: Score: 57.46
+Test7: Score: 49.32
+
+Average Score: 73.81% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:6914: Matthew Varley: Senior(Mathematics)
+-------Scores-------
+Test0: Score: 68.25
+Test1: Score: 85.61
+Test2: Score: 70.41
+Test3: Score: 71.03
+Test4: Score: 70.42
+Test5: Score: 60.61
+Test6: Score: 68.14
+
+Average Score: 70.64% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:4872: Cameron Whatson: Junior(Communication)
+-------Scores-------
+Test0: Score: 69.46
+Test1: Score: 61.1
+Test2: Score: 79.53
+Test3: Score: 65.72
+Test4: Score: 97.81
+Test5: Score: 84.24
+Test6: Score: 90.43
+Test7: Score: 59.9
+
+Average Score: 76.02% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:2736: Javier Rodgers: Junior(Mathematics)
+-------Scores-------
+Test0: Score: 74.88
+Test1: Score: 50.66
+Test2: Score: 89.39
+Test3: Score: 92.15
+Test4: Score: 71.15
+Test5: Score: 72.77
+Test6: Score: 73.75
+Test7: Score: 77.07
+
+Average Score: 75.23% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:7659: Elle Vincent: Freshman(Biology)
+-------Scores-------
+Test0: Score: 73.39
+Test1: Score: 79.45
+Test2: Score: 70.51
+Test3: Score: 82.72
+Test4: Score: 70.28
+Test5: Score: 87.24
+Test6: Score: 74.08
+Test7: Score: 81.79
+
+Average Score: 77.43% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:5501: Ryan Swift: Junior(Computer Science)
+-------Scores-------
+Test0: Score: 89.43
+Test1: Score: 50.41
+Test2: Score: 78.26
+Test3: Score: 85.54
+Test4: Score: 77.61
+
+Average Score: 76.25% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:3428: Rick Ellwood: Senior(Mathematics)
+-------Scores-------
+Test0: Score: 69.96
+Test1: Score: 57
+Test2: Score: 66.37
+Test3: Score: 71.6
+Test4: Score: 56.84
+Test5: Score: 83.91
+Test6: Score: 81.28
+Test7: Score: 46.91
+
+Average Score: 66.73% -- Grade: D
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:1375: Logan Cavanagh: Senior(Computer Science)
+-------Scores-------
+Test0: Score: 66.16
+Test1: Score: 42.14
+Test2: Score: 75.02
+Test3: Score: 93.36
+Test4: Score: 95.97
+
+Average Score: 74.53% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:9263: Emery Darcy: Junior(Communication)
+-------Scores-------
+Test0: Score: 76.02
+Test1: Score: 57.34
+Test2: Score: 78.01
+Test3: Score: 77.83
+Test4: Score: 65.36
+Test5: Score: 51.36
+Test6: Score: 63.71
+
+Average Score: 67.09% -- Grade: D
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:8107: Deborah Squire: Junior(Biology)
+-------Scores-------
+Test0: Score: 86.61
+Test1: Score: 57.14
+Test2: Score: 93.38
+Test3: Score: 86.13
+Test4: Score: 52.78
+Test5: Score: 71.68
+Test6: Score: 84.15
+
+Average Score: 75.98% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:6094: Chelsea Russell: Junior(Music)
+-------Scores-------
+Test0: Score: 66.11
+Test1: Score: 50.72
+Test2: Score: 99.68
+Test3: Score: 76.43
+Test4: Score: 73.02
+Test5: Score: 56.35
+Test6: Score: 61.09
+Test7: Score: 61.38
+
+Average Score: 68.10% -- Grade: D
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:4952: Hailey Ross: Sophomore(Journalism)
+-------Scores-------
+Test0: Score: 84.75
+Test1: Score: 44.77
+Test2: Score: 78.75
+Test3: Score: 99.7
+Test4: Score: 59.9
+Test5: Score: 82.01
+Test6: Score: 95.15
+Test7: Score: 71.96
+
+Average Score: 77.12% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:2816: Nate Casey: Junior(Information Technology)
+-------Scores-------
+Test0: Score: 59.62
+Test1: Score: 61.59
+Test2: Score: 76.27
+Test3: Score: 75.91
+Test4: Score: 73.75
+
+Average Score: 69.43% -- Grade: D
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:7739: Anthony Rodgers: Senior(Geography)
+-------Scores-------
+Test0: Score: 97.84
+Test1: Score: 65.48
+Test2: Score: 74.6
+Test3: Score: 67.28
+Test4: Score: 74.78
+Test5: Score: 51.68
+Test6: Score: 65.62
+Test7: Score: 51.97
+
+Average Score: 68.66% -- Grade: D
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:5685: Adelaide Gordon: Junior(Mathematics)
+-------Scores-------
+Test0: Score: 58.9
+Test1: Score: 45.75
+Test2: Score: 88.54
+Test3: Score: 96.42
+Test4: Score: 88.32
+Test5: Score: 71.48
+Test6: Score: 66.92
+Test7: Score: 82.6
+
+Average Score: 74.87% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:3548: Tyler Rees: Senior(Instrumental Music)
+-------Scores-------
+Test0: Score: 87.44
+Test1: Score: 57.31
+Test2: Score: 91.83
+Test3: Score: 68.31
+Test4: Score: 77.85
+Test5: Score: 98.3
+Test6: Score: 86.57
+Test7: Score: 49.7
+
+Average Score: 77.16% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:1206: Liam Lowe: Sophomore(Journalism)
+-------Scores-------
+Test0: Score: 68.32
+Test1: Score: 82.63
+Test2: Score: 96.1
+Test3: Score: 66.68
+
+Average Score: 78.43% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:9473: George Wright: Senior(Biology)
+-------Scores-------
+Test0: Score: 79.75
+Test1: Score: 64.24
+Test2: Score: 91.01
+Test3: Score: 75.04
+Test4: Score: 94.78
+Test5: Score: 52.81
+Test6: Score: 66.04
+
+Average Score: 74.81% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:8027: Naomi Williams: Junior(Journalism)
+-------Scores-------
+Test0: Score: 97.3
+Test1: Score: 49.15
+Test2: Score: 91.5
+
+Average Score: 79.32% -- Grade: C
+
+----------------------Student Grade Report-----------------
+------------------------------------------
+ID:6964: Marina Fleming: Sophomore(Journalism)
+-------Scores-------
+Test0: Score: 73.01
+Test1: Score: 99.05
+Test2: Score: 93.18
+Test3: Score: 81.08
+Test4: Score: 76.62
+Test5: Score: 50.46
+Test6: Score: 65.23
+
+Average Score: 76.95% -- Grade: C
+

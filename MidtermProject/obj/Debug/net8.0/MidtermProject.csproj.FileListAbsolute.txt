@@ -1,0 +1,14 @@
+/Users/benjamincummings/IT 2040/MidtermProject/obj/Debug/net8.0/MidtermProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamincummings/IT 2040/MidtermProject/obj/Debug/net8.0/MidtermProject.AssemblyInfoInputs.cache
+/Users/benjamincummings/IT 2040/MidtermProject/obj/Debug/net8.0/MidtermProject.AssemblyInfo.cs
+/Users/benjamincummings/IT 2040/MidtermProject/obj/Debug/net8.0/MidtermProject.csproj.CoreCompileInputs.cache
+/Users/benjamincummings/IT 2040/MidtermProject/bin/Debug/net8.0/MidtermProject
+/Users/benjamincummings/IT 2040/MidtermProject/bin/Debug/net8.0/MidtermProject.deps.json
+/Users/benjamincummings/IT 2040/MidtermProject/bin/Debug/net8.0/MidtermProject.runtimeconfig.json
+/Users/benjamincummings/IT 2040/MidtermProject/bin/Debug/net8.0/MidtermProject.dll
+/Users/benjamincummings/IT 2040/MidtermProject/bin/Debug/net8.0/MidtermProject.pdb
+/Users/benjamincummings/IT 2040/MidtermProject/obj/Debug/net8.0/MidtermProject.dll
+/Users/benjamincummings/IT 2040/MidtermProject/obj/Debug/net8.0/refint/MidtermProject.dll
+/Users/benjamincummings/IT 2040/MidtermProject/obj/Debug/net8.0/MidtermProject.pdb
+/Users/benjamincummings/IT 2040/MidtermProject/obj/Debug/net8.0/MidtermProject.genruntimeconfig.cache
+/Users/benjamincummings/IT 2040/MidtermProject/obj/Debug/net8.0/ref/MidtermProject.dll
