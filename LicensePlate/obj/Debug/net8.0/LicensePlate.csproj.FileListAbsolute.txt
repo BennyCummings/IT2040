@@ -1,0 +1,14 @@
+/Users/benjamincummings/IT 2040/LicensePlate/bin/Debug/net8.0/LicensePlate
+/Users/benjamincummings/IT 2040/LicensePlate/bin/Debug/net8.0/LicensePlate.deps.json
+/Users/benjamincummings/IT 2040/LicensePlate/bin/Debug/net8.0/LicensePlate.runtimeconfig.json
+/Users/benjamincummings/IT 2040/LicensePlate/bin/Debug/net8.0/LicensePlate.dll
+/Users/benjamincummings/IT 2040/LicensePlate/bin/Debug/net8.0/LicensePlate.pdb
+/Users/benjamincummings/IT 2040/LicensePlate/obj/Debug/net8.0/LicensePlate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamincummings/IT 2040/LicensePlate/obj/Debug/net8.0/LicensePlate.AssemblyInfoInputs.cache
+/Users/benjamincummings/IT 2040/LicensePlate/obj/Debug/net8.0/LicensePlate.AssemblyInfo.cs
+/Users/benjamincummings/IT 2040/LicensePlate/obj/Debug/net8.0/LicensePlate.csproj.CoreCompileInputs.cache
+/Users/benjamincummings/IT 2040/LicensePlate/obj/Debug/net8.0/LicensePlate.dll
+/Users/benjamincummings/IT 2040/LicensePlate/obj/Debug/net8.0/refint/LicensePlate.dll
+/Users/benjamincummings/IT 2040/LicensePlate/obj/Debug/net8.0/LicensePlate.pdb
+/Users/benjamincummings/IT 2040/LicensePlate/obj/Debug/net8.0/LicensePlate.genruntimeconfig.cache
+/Users/benjamincummings/IT 2040/LicensePlate/obj/Debug/net8.0/ref/LicensePlate.dll
